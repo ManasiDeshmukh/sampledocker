@@ -3,4 +3,4 @@ function calculate(a,b)
     return a+b;
 }
 
-console.log(calculate(4,5))
+console.log("addition is "+calculate(4,5))
